@@ -26,7 +26,6 @@
         "@ionic-native/status-bar": "4.3.2",
         "@ionic/storage": "2.0.1",
         "angular-oauth2-oidc": "^2.1.8",
-        "com.siriuscom.appauth": "/Users/manikantat/Documents/MyProjects/ionic/cordova plugins/cordova-app-auth",
         "cordova-android": "^6.2.3",
         "cordova-app-auth": "file:../cordova plugins/cordova-app-auth",
         "cordova-ios": "^4.4.0",
@@ -54,7 +53,6 @@
             "cordova-plugin-splashscreen": {},
             "cordova-plugin-whitelist": {},
             "ionic-plugin-keyboard": {},
-            "com.siriuscom.appauth": {},
             "cordova-plugin-inappbrowser": {}
         },
         "platforms": [

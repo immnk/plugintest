@@ -78,7 +78,6 @@
     </platform>
     <engine name="android" spec="^6.2.3" />
     <engine name="ios" spec="^4.4.0" />
-    <plugin name="com.siriuscom.appauth" spec="/Users/manikantat/Documents/MyProjects/ionic/cordova plugins/cordova-app-auth" />
     <plugin name="cordova-plugin-device" spec="^1.1.4" />
     <plugin name="cordova-plugin-inappbrowser" spec="^1.7.1" />
     <plugin name="cordova-plugin-ionic-webview" spec="^1.1.16" />
