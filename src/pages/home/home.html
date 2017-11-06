@@ -11,4 +11,22 @@
   <p>
     If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
   </p>
+
+  <h1 *ngIf="!name">
+    Hello
+</h1>
+  <h1 *ngIf="name">
+    Hello, {{name}}
+</h1>
+
+  <button class="btn btn-default" (click)="login()">
+    Login
+</button>
+  <button class="btn btn-default" (click)="logoff()">
+    Logout
+</button>
+
+  <div>
+    Username/Passwort zum Testen: max/geheim
+  </div>
 </ion-content>
